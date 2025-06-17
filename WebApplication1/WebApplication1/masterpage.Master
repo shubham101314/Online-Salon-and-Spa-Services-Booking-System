@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication1.Site1" %>
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>Salon & Spa</title>
+    <link rel="stylesheet" href="Styles1.css">
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+
+    <form id="form1" runat="server">
+        <header class="header">
+            <div class="container">
+                <nav class="navbar">
+                    <ul>
+                        <li><a href="homepage_0.aspx">Home</a></li>
+                        <li><a href="aboutus.aspx">About</a></li>
+                        <li><a href="gallary.aspx">Gallery</a></li>
+                        <li><a href="contact_us.aspx">Contact</a></li>
+                        <li><a href="booking.aspx">Booking</a></li>
+                        
+                        <!-- Show logout if user is logged in -->
+                        <asp:PlaceHolder ID="phLogout" runat="server" Visible="false">
+                            <li>
+                                <asp:Button ID="btnLogout" runat="server" Text="Logout" CssClass="logout-btn" OnClick="btnLogout_Click" />
+                            </li>
+                        </asp:PlaceHolder>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        <div>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+        </div>
+
+        <footer class="footer">
+            <p>&copy; 2025 Barber Shop. All rights reserved.</p>
+        </footer>
+    </form>
+
+</body>
+</html>

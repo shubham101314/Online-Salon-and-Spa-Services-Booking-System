@@ -1,0 +1,166 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site2.master.cs" Inherits="WebApplication1.Admin.Site2" %>
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salon Management Dashboard</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link href="/Styles/dashboard.css" rel="stylesheet">
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+    <style>
+        :root {
+            --primary-color: #8e44ad;
+            --secondary-color: #f1c40f;
+            --background-color: #f7f1e5;
+            --text-primary: #2c3e50;
+            --text-secondary: #34495e;
+            --accent-color: #e91e63;
+        }
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--background-color);
+            color: var(--text-primary);
+            line-height: 1.6;
+        }
+        .dashboard-container {
+            display: flex;
+            min-height: 100vh;
+            background: linear-gradient(135deg, rgba(142, 68, 173, 0.1) 0%, rgba(233, 30, 99, 0.1) 100%);
+        }
+        .sidebar {
+            width: 280px;
+            background-color: #2b2a2a;
+            color: white;
+            transition: width 0.3s ease;
+            box-shadow: 5px 0 15px rgba(0,0,0,0.1);
+        }
+        .sidebar-logo {
+            padding: 20px;
+            text-align: center;
+        }
+        .sidebar-logo img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            border: 3px solid var(--secondary-color);
+            object-fit: cover;
+        }
+        .sidebar-menu ul {
+            list-style: none;
+            padding: 0;
+        }
+        .sidebar-menu ul li {
+            padding: 15px 25px;
+            transition: all 0.3s ease;
+            border-left: 4px solid transparent;
+        }
+        .sidebar-menu ul li a {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            color: white;
+            width: 100%;
+        }
+        .sidebar-menu ul li i {
+            margin-right: 15px;
+            color: var(--secondary-color);
+        }
+        .sidebar-menu ul li:hover,
+        .sidebar-menu ul li.active {
+            background-color: rgba(255,255,255,0.1);
+            border-left-color: var(--secondary-color);
+        }
+        .main-content-wrapper {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+        }
+        .top-header {
+            background-color: white;
+            padding: 15px 30px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        .dashboard-footer {
+            background-color: white;
+            color: var(--text-secondary);
+            padding: 15px 30px;
+            text-align: center;
+            font-weight: bold;
+        }
+          .user-profile {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            position: relative;
+        }
+        .user-profile img {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            border: 2px solid var(--primary-color);
+            cursor: pointer;
+            gap:10px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="dashboard-container">
+            <aside class="sidebar">
+                <div class="sidebar-logo">
+                    <img src="/Images/Logo.jpg" alt="Salon Logo">
+                </div>
+                <nav class="sidebar-menu">
+                    <ul>
+                        <li class="active"><a href="dashboard.aspx"><i class="fas fa-home"></i><span>Dashboard</span></a></li>
+                        <li><a href="appointments.aspx"><i class="fas fa-calendar-alt"></i><span>Appointments</span></a></li>
+                        <li><a href="#"><i class="fas fa-users"></i><span>Clients</span></a></li>
+                        <li><a href="staff.aspx"><i class="fas fa-user-tie"></i><span>Staff</span></a></li>
+                        <li><a href="#"><i class="fas fa-chart-line"></i><span>Reports</span></a></li>
+                        <li><a href="#"><i class="fas fa-money-bill-wave"></i><span>Billing</span></a></li>
+                        <li><a href="#"><i class="fas fa-headset"></i><span>Support</span></a></li>
+                    </ul>
+                </nav>
+            </aside>
+            <main class="main-content-wrapper">
+                <header class="top-header">
+                    <h1>Salon Management Dashboard</h1>
+                    <div class="user-dropdown">
+                        <div class="user-profile">
+                            <img src="/Images/man.png" alt="Admin Avatar">
+                            <span>Salon Manager</span>
+                            <i class="fas fa-caret-down"></i>
+                        </div>
+                        <div class="user-dropdown-content">
+                            <ul>
+                                <li>
+                                    <asp:LinkButton ID="btnLogout" runat="server" OnClick="Logout_Click" CssClass="logout-btn">
+                                        <i class="fas fa-sign-out-alt"></i> Logout
+                                    </asp:LinkButton>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </header>
+                <section class="dashboard-content">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+                </section>
+                <footer class="dashboard-footer">
+                    <p>&copy; 2025 Salon Management System. All Rights Reserved.</p>
+                </footer>
+            </main>
+        </div>
+    </form>
+    <script src="/Scripts/dashboard.js"></script>
+    <asp:ContentPlaceHolder ID="scripts" runat="server"></asp:ContentPlaceHolder>
+</body>
+</html>

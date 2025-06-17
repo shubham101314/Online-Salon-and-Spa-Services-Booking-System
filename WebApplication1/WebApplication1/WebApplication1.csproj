@@ -1,0 +1,607 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FE90C07A-209A-4943-AFEA-A106059A8D0C}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebApplication1</RootNamespace>
+    <AssemblyName>WebApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="aboutus.aspx" />
+    <Content Include="Admin\AdminLogin.aspx" />
+    <Content Include="Admin\appointments.aspx" />
+    <Content Include="Admin\dashboard.aspx" />
+    <Content Include="Admin\Images\googlelogo.png" />
+    <Content Include="Admin\Images\hidden.png" />
+    <Content Include="Admin\Images\instalogo.png" />
+    <Content Include="Admin\Images\Logo.jpg" />
+    <Content Include="Admin\Images\man.png" />
+    <Content Include="Admin\Images\pixelcut-export.jpeg" />
+    <Content Include="Admin\Images\power.png" />
+    <Content Include="Admin\Images\twitterlogo.png" />
+    <Content Include="Admin\Images\twitternewlogo.png" />
+    <Content Include="Admin\Images\view.png" />
+    <Content Include="Admin\staff.aspx" />
+    <Content Include="advance hair spa.jpg" />
+    <Content Include="Artistic gel polish.jpg" />
+    <Content Include="Basic gel polish.jpg" />
+    <Content Include="Basic pedicure.jpg" />
+    <Content Include="Bloooming gel polish.jpg" />
+    <Content Include="booking.aspx" />
+    <Content Include="booking1.aspx" />
+    <Content Include="bridal hairstyle.jpg" />
+    <Content Include="contact_us.aspx" />
+    <Content Include="Deep conditioning Treatment.jpg" />
+    <Content Include="Dip powder%28sns%29.jpg" />
+    <Content Include="facials.aspx" />
+    <Content Include="Fish pedicure.jpg" />
+    <Content Include="gallary.aspx" />
+    <Content Include="gallery.aspx" />
+    <Content Include="Garibaldi Beard.jpg" />
+    <Content Include="Global.asax" />
+    <Content Include="hair detox.jpg" />
+    <Content Include="haircare.aspx" />
+    <Content Include="haircolors.aspx" />
+    <Content Include="haircut.aspx" />
+    <Content Include="hairspa.aspx" />
+    <Content Include="Hard gel polish.jpg" />
+    <Content Include="head massage.jpg" />
+    <Content Include="homepage_bg.jpg" />
+    <Content Include="images2.jpg" />
+    <Content Include="Images\advance hair spa.jpg" />
+    <Content Include="Images\Artistic gel polish.jpg" />
+    <Content Include="Images\Basic gel polish.jpg" />
+    <Content Include="Images\Basic pedicure.jpg" />
+    <Content Include="Images\Bloooming gel polish.jpg" />
+    <Content Include="Images\bridal hairstyle.jpg" />
+    <Content Include="Images\Deep conditioning Treatment.jpg" />
+    <Content Include="Images\Dip powder%28sns%29.jpg" />
+    <Content Include="Images\Fish pedicure.jpg" />
+    <Content Include="Images\Garibaldi Beard.jpg" />
+    <Content Include="Images\hair detox.jpg" />
+    <Content Include="Images\Hard gel polish.jpg" />
+    <Content Include="Images\head massage.jpg" />
+    <Content Include="Images\homepage_bg.jpg" />
+    <Content Include="Images\images2.jpg" />
+    <Content Include="Images\IMG_5656.jpg" />
+    <Content Include="Images\IMG_5657.jpg" />
+    <Content Include="Images\IMG_5658.jpg" />
+    <Content Include="Images\IMG_5659.jpg" />
+    <Content Include="Images\IMG_5660.jpg" />
+    <Content Include="Images\IMG_5661.jpg" />
+    <Content Include="Images\IMG_5662.jpg" />
+    <Content Include="Images\IMG_5663.jpg" />
+    <Content Include="Images\IMG_5664.jpg" />
+    <Content Include="Images\IMG_5665.jpg" />
+    <Content Include="Images\IMG_5667.jpg" />
+    <Content Include="Images\IMG_5668.jpg" />
+    <Content Include="Images\IMG_5669.jpg" />
+    <Content Include="Images\IMG_5670.jpg" />
+    <Content Include="Images\IMG_5671.jpg" />
+    <Content Include="Images\IMG_5672.jpg" />
+    <Content Include="Images\IMG_5673.jpg" />
+    <Content Include="Images\IMG_5674.jpg" />
+    <Content Include="Images\IMG_5675.jpg" />
+    <Content Include="Images\IMG_5676.jpg" />
+    <Content Include="Images\IMG_5677.jpg" />
+    <Content Include="Images\IMG_5678.jpg" />
+    <Content Include="Images\IMG_5679.jpg" />
+    <Content Include="Images\IMG_5680.jpg" />
+    <Content Include="Images\IMG_5681.jpg" />
+    <Content Include="Images\IMG_5682.jpg" />
+    <Content Include="Images\IMG_5683.jpg" />
+    <Content Include="Images\IMG_5684.jpg" />
+    <Content Include="Images\IMG_5685.jpg" />
+    <Content Include="Images\IMG_5686.jpg" />
+    <Content Include="Images\IMG_5687.jpg" />
+    <Content Include="Images\IMG_5688.jpg" />
+    <Content Include="Images\IMG_5689.jpg" />
+    <Content Include="Images\IMG_5690.jpg" />
+    <Content Include="Images\IMG_5691.jpg" />
+    <Content Include="Images\IMG_5692.jpg" />
+    <Content Include="Images\IMG_5693.jpg" />
+    <Content Include="Images\IMG_5694.jpg" />
+    <Content Include="Images\IMG_5695.jpg" />
+    <Content Include="Images\IMG_5696.jpg" />
+    <Content Include="Images\IMG_5697.jpg" />
+    <Content Include="Images\IMG_5699.jpg" />
+    <Content Include="Images\IMG_5700.jpg" />
+    <Content Include="Images\IMG_5701.jpg" />
+    <Content Include="Images\IMG_5702.jpg" />
+    <Content Include="Images\IMG_5703.jpg" />
+    <Content Include="Images\IMG_5704.jpg" />
+    <Content Include="Images\IMG_5705.jpg" />
+    <Content Include="Images\IMG_5706.jpg" />
+    <Content Include="Images\IMG_5707.jpg" />
+    <Content Include="Images\IMG_5708.jpg" />
+    <Content Include="Images\IMG_5709.jpg" />
+    <Content Include="Images\IMG_5710.jpg" />
+    <Content Include="Images\Keratin treatment.jpg" />
+    <Content Include="Images\Logo.jpg" />
+    <Content Include="Images\Military Haircut.jpg" />
+    <Content Include="Images\Nanoplastia.jpg" />
+    <Content Include="Images\Over comb Haircut.jpg" />
+    <Content Include="Images\Patchy Beard.jpg" />
+    <Content Include="Images\Peek-a-boo Haircolour.jpg" />
+    <Content Include="Images\pixelcut-export.jpeg" />
+    <Content Include="Images\Professional_Haircuts.jpg" />
+    <Content Include="Images\Professional_Haircuts.jpg.png" />
+    <Content Include="Images\Screenshot 2025-01-15 114314.png" />
+    <Content Include="Images\Screenshot 2025-01-15 114329.png" />
+    <Content Include="Images\Screenshot 2025-01-15 114343.png" />
+    <Content Include="Images\Screenshot 2025-01-15 114357.png" />
+    <Content Include="Images\Screenshot 2025-01-15 114411.png" />
+    <Content Include="Images\Screenshot 2025-01-15 114426.png" />
+    <Content Include="Images\Screenshot 2025-01-15 114444.png" />
+    <Content Include="Images\Screenshot 2025-01-15 114458.png" />
+    <Content Include="Images\Screenshot 2025-01-15 114512.png" />
+    <Content Include="Images\Screenshot 2025-01-15 114525.png" />
+    <Content Include="Images\Screenshot 2025-01-15 114538.png" />
+    <Content Include="Images\Screenshot 2025-01-15 114550.png" />
+    <Content Include="Images\Screenshot 2025-01-15 114605.png" />
+    <Content Include="Images\Screenshot 2025-01-15 114619.png" />
+    <Content Include="Images\Screenshot 2025-01-15 114649.png" />
+    <Content Include="Images\Screenshot 2025-01-15 114702.png" />
+    <Content Include="Images\Screenshot 2025-01-15 114723.png" />
+    <Content Include="Images\Screenshot 2025-01-15 114739.png" />
+    <Content Include="Images\Sculpted gel polish.jpg" />
+    <Content Include="Images\Waterless pedicure.jpg" />
+    <Content Include="Images\Womens Haircolour Ombre.jpg" />
+    <Content Include="Images\Womens Haircut Long Layers.jpg" />
+    <Content Include="Keratin treatment.jpg" />
+    <Content Include="login.aspx" />
+    <Content Include="LoginValidation.js" />
+    <Content Include="Logo.jpg" />
+    <Content Include="manicure.aspx" />
+    <Content Include="maskspa.aspx" />
+    <Content Include="Military Haircut.jpg" />
+    <Content Include="nailart.aspx" />
+    <Content Include="Nanoplastia.jpg" />
+    <Content Include="Over comb Haircut.jpg" />
+    <Content Include="Patchy Beard.jpg" />
+    <Content Include="Payment.aspx" />
+    <Content Include="Payment.aspx.cs.txt" />
+    <Content Include="PaymentSuccess.aspx" />
+    <Content Include="pedicure.aspx" />
+    <Content Include="Peek-a-boo Haircolour.jpg" />
+    <Content Include="pixelcut-export.jpeg" />
+    <Content Include="Professional_Haircuts.jpg.png" />
+    <Content Include="Properties\saloon_services.aspx" />
+    <Content Include="Register.aspx" />
+    <Content Include="review.aspx" />
+    <Content Include="reviews.aspx" />
+    <Content Include="SalonServices.aspx" />
+    <Content Include="homepage_0.aspx" />
+    <Content Include="Screenshot 2025-01-15 114314.png" />
+    <Content Include="Screenshot 2025-01-15 114329.png" />
+    <Content Include="Screenshot 2025-01-15 114343.png" />
+    <Content Include="Screenshot 2025-01-15 114357.png" />
+    <Content Include="Screenshot 2025-01-15 114411.png" />
+    <Content Include="Screenshot 2025-01-15 114426.png" />
+    <Content Include="Screenshot 2025-01-15 114444.png" />
+    <Content Include="Screenshot 2025-01-15 114458.png" />
+    <Content Include="Screenshot 2025-01-15 114512.png" />
+    <Content Include="Screenshot 2025-01-15 114525.png" />
+    <Content Include="Screenshot 2025-01-15 114538.png" />
+    <Content Include="Screenshot 2025-01-15 114550.png" />
+    <Content Include="Screenshot 2025-01-15 114605.png" />
+    <Content Include="Screenshot 2025-01-15 114619.png" />
+    <Content Include="Screenshot 2025-01-15 114649.png" />
+    <Content Include="Screenshot 2025-01-15 114702.png" />
+    <Content Include="Screenshot 2025-01-15 114723.png" />
+    <Content Include="Screenshot 2025-01-15 114739.png" />
+    <Content Include="Sculpted gel polish.jpg" />
+    <Content Include="servicecart.aspx" />
+    <Content Include="shaving.aspx" />
+    <Content Include="Styles.css" />
+    <Content Include="Styles1.css" />
+    <Content Include="threading.aspx" />
+    <Content Include="touchups.aspx" />
+    <Content Include="treatment.aspx" />
+    <Content Include="Waterless pedicure.jpg" />
+    <Content Include="waxing.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="spaservices.aspx" />
+    <Content Include="WebForm2.aspx" />
+    <Content Include="Womens Haircolour Ombre.jpg" />
+    <Content Include="Womens Haircut Long Layers.jpg" />
+    <Content Include="womens_haircut.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="aboutus.aspx.cs">
+      <DependentUpon>aboutus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="aboutus.aspx.designer.cs">
+      <DependentUpon>aboutus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AdminLogin.aspx.cs">
+      <DependentUpon>AdminLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminLogin.aspx.designer.cs">
+      <DependentUpon>AdminLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\appointments.aspx.cs">
+      <DependentUpon>appointments.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\appointments.aspx.designer.cs">
+      <DependentUpon>appointments.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\dashboard.aspx.cs">
+      <DependentUpon>dashboard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\dashboard.aspx.designer.cs">
+      <DependentUpon>dashboard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Site2.Master.cs">
+      <DependentUpon>Site2.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Site2.Master.designer.cs">
+      <DependentUpon>Site2.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\staff.aspx.cs">
+      <DependentUpon>staff.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\staff.aspx.designer.cs">
+      <DependentUpon>staff.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="booking.aspx.cs">
+      <DependentUpon>booking.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="booking.aspx.designer.cs">
+      <DependentUpon>booking.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="booking1.aspx.cs">
+      <DependentUpon>booking1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="booking1.aspx.designer.cs">
+      <DependentUpon>booking1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="contact_us.aspx.cs">
+      <DependentUpon>contact_us.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="contact_us.aspx.designer.cs">
+      <DependentUpon>contact_us.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="facials.aspx.cs">
+      <DependentUpon>facials.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="facials.aspx.designer.cs">
+      <DependentUpon>facials.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="gallary.aspx.cs">
+      <DependentUpon>gallary.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="gallary.aspx.designer.cs">
+      <DependentUpon>gallary.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="gallery.aspx.cs">
+      <DependentUpon>gallery.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="gallery.aspx.designer.cs">
+      <DependentUpon>gallery.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="haircare.aspx.cs">
+      <DependentUpon>haircare.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="haircare.aspx.designer.cs">
+      <DependentUpon>haircare.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="haircolors.aspx.cs">
+      <DependentUpon>haircolors.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="haircolors.aspx.designer.cs">
+      <DependentUpon>haircolors.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="haircut.aspx.cs">
+      <DependentUpon>haircut.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="haircut.aspx.designer.cs">
+      <DependentUpon>haircut.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="hairspa.aspx.cs">
+      <DependentUpon>hairspa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="hairspa.aspx.designer.cs">
+      <DependentUpon>hairspa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="login.aspx.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="login.aspx.designer.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="manicure.aspx.cs">
+      <DependentUpon>manicure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="manicure.aspx.designer.cs">
+      <DependentUpon>manicure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="maskspa.aspx.cs">
+      <DependentUpon>maskspa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="maskspa.aspx.designer.cs">
+      <DependentUpon>maskspa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="masterpage.Master.cs">
+      <DependentUpon>masterpage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="masterpage.Master.designer.cs">
+      <DependentUpon>masterpage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="nailart.aspx.cs">
+      <DependentUpon>nailart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="nailart.aspx.designer.cs">
+      <DependentUpon>nailart.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Payment.aspx.cs">
+      <DependentUpon>Payment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Payment.aspx.designer.cs">
+      <DependentUpon>Payment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentSuccess.aspx.cs">
+      <DependentUpon>PaymentSuccess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PaymentSuccess.aspx.designer.cs">
+      <DependentUpon>PaymentSuccess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pedicure.aspx.cs">
+      <DependentUpon>pedicure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pedicure.aspx.designer.cs">
+      <DependentUpon>pedicure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\saloon_services.aspx.cs">
+      <DependentUpon>saloon_services.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Properties\saloon_services.aspx.designer.cs">
+      <DependentUpon>saloon_services.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="review.aspx.cs">
+      <DependentUpon>review.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="review.aspx.designer.cs">
+      <DependentUpon>review.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="reviews.aspx.cs">
+      <DependentUpon>reviews.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="reviews.aspx.designer.cs">
+      <DependentUpon>reviews.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SalonServices.aspx.cs">
+      <DependentUpon>SalonServices.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SalonServices.aspx.designer.cs">
+      <DependentUpon>SalonServices.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="servicecart.aspx.cs">
+      <DependentUpon>servicecart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="servicecart.aspx.designer.cs">
+      <DependentUpon>servicecart.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="shaving.aspx.cs">
+      <DependentUpon>shaving.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="shaving.aspx.designer.cs">
+      <DependentUpon>shaving.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site1.Master.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site1.Master.designer.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="homepage_0.aspx.cs">
+      <DependentUpon>homepage_0.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="homepage_0.aspx.designer.cs">
+      <DependentUpon>homepage_0.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="spaservices.aspx.cs">
+      <DependentUpon>spaservices.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="spaservices.aspx.designer.cs">
+      <DependentUpon>spaservices.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="threading.aspx.cs">
+      <DependentUpon>threading.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="threading.aspx.designer.cs">
+      <DependentUpon>threading.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="touchups.aspx.cs">
+      <DependentUpon>touchups.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="touchups.aspx.designer.cs">
+      <DependentUpon>touchups.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="treatment.aspx.cs">
+      <DependentUpon>treatment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="treatment.aspx.designer.cs">
+      <DependentUpon>treatment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="waxing.aspx.cs">
+      <DependentUpon>waxing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="waxing.aspx.designer.cs">
+      <DependentUpon>waxing.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm2.aspx.cs">
+      <DependentUpon>WebForm2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm2.aspx.designer.cs">
+      <DependentUpon>WebForm2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="womens_haircut.aspx.cs">
+      <DependentUpon>womens_haircut.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="womens_haircut.aspx.designer.cs">
+      <DependentUpon>womens_haircut.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="masterpage.Master" />
+    <Content Include="Admin\Site2.Master" />
+    <None Include="packages.config" />
+    <Content Include="Site1.Master" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>53803</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:53803/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,302 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site1.Master.cs" Inherits="WebApplication1.Site1" %>
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>Salon & Spa</title>
+    <link rel="stylesheet" href="Styles1.css">
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+    <style>
+        /* General Styles */
+        body {
+            margin: 0;
+            font-family: 'Georgia', serif;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        /* Header */
+        .header {
+            background: #2b2a2a;
+            color: #fff;
+            padding: 10px 40px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 80px;
+        }
+
+        .header-section {
+            display: flex;
+            align-items: center;
+        }
+
+        .header-section.left {
+            flex: 1;
+            justify-content: flex-start;
+        }
+
+        .header-section.center {
+            flex: 2;
+            justify-content: center;
+        }
+
+        .header-section.right {
+            flex: 1;
+            justify-content: flex-end;
+        }
+
+        /* Logo */
+        .logo-container {
+            display: flex;
+            align-items: center;
+        }
+
+        .logo {
+            height: 40px;
+            width: 130px;
+        }
+
+        /* Navbar */
+        .navbar ul {
+            display: flex;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            gap: 40px;
+        }
+
+        .navbar ul li {
+            position: relative;
+        }
+
+        .navbar ul li a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 19px;
+            transition: color 0.3s;
+            padding: 5px 0;
+            display: block;
+        }
+
+        .navbar ul li a:hover {
+            color: #f0f8ff;
+        }
+
+        /* Dropdown */
+        .dropdown {
+            position: relative;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background-color: #2b2a2a;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+            z-index: 1;
+            padding: 10px 0;
+            border-radius: 4px;
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        .dropdown-content li a {
+            padding: 8px 15px;
+            display: block;
+            white-space: nowrap;
+            color: #fff;
+            text-decoration: none;
+        }
+
+        .dropdown-content li a:hover {
+            background-color: #444;
+        }
+
+        /* Login & User Dropdown */
+        .login-container-wrapper {
+            display: flex;
+            align-items: center;
+            position: relative;
+        }
+
+        .login-container {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            background-color: #f5f5f5;
+            padding: 5px 15px;
+            border-radius: 30px;
+            text-decoration: none;
+        }
+
+        .login-icon {
+            border-radius: 50%;
+            width: 25px;
+            height: 25px;
+        }
+
+        .login-text {
+            font-size: 14px;
+            color: #333;
+            font-weight: 500;
+        }
+
+        /* User Dropdown */
+        .user-dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        .user-dropdown-toggle {
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            padding: 5px 10px;
+            border-radius: 30px;
+            background-color: #f5f5f5;
+            transition: background-color 0.3s;
+        }
+
+        .user-dropdown-toggle:hover {
+            background-color: #ddd;
+        }
+
+        .user-dropdown-content {
+            display: none;
+            position: absolute;
+            top: 100%;
+            right: 0;
+            background-color: #2b2a2a;
+            min-width: 180px;
+            box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+            border-radius: 4px;
+            z-index: 10;
+        }
+
+        .user-dropdown:hover .user-dropdown-content {
+            display: block;
+        }
+
+        .user-dropdown-content ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .user-dropdown-content li {
+            padding: 8px 0;
+        }
+
+        .user-dropdown-content li .logout-btn {
+            display: block;
+            color: #fff;
+            text-decoration: none;
+            font-size: 14px;
+            padding: 10px 15px;
+            text-align: left;
+            width: 100%;
+            background: none;
+            border: none;
+            cursor: pointer;
+        }
+
+        .user-dropdown-content li .logout-btn:hover {
+           color: #fff;
+            display: block;
+            text-decoration: none;
+             font-size: 14px;
+             padding: 10px 15px;
+            text-align: left;
+            width: 100%;
+            background: none;
+            border: none;
+ c          ursor: pointer;
+
+        }
+
+        /* Footer */
+        .footer {
+            background: #2b2a2a;
+            color: #fff;
+            text-align: center;
+            padding: 15px;
+            margin-top: auto;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server" style="display: flex; flex-direction: column; flex: 1;">
+        <!-- Header -->
+        <header class="header">
+            <!-- Logo -->
+            <div class="header-section left">
+                <div class="logo-container">
+                    <a href="homepage_0.aspx">
+                        <img src="Images/Logo.jpg" alt="Logo" class="logo">
+                    </a>
+                </div>
+            </div>
+
+            <!-- Navigation -->
+            <div class="header-section center">
+                <nav class="navbar">
+                    <ul>
+                        <li><a href="homepage_0.aspx">Home</a></li>
+                        <li><a href="aboutus.aspx">About</a></li>
+                        <li class="dropdown">
+                            <a href="#">Services</a>
+                            <ul class="dropdown-content">
+                                <li><a href="/SalonServices.aspx">Salon</a></li>
+                                <li><a href="/spaservices.aspx">Spa</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="gallary.aspx">Gallery</a></li>
+                        <li><a href="reviews.aspx">Reviews</a></li>
+                        <li><a href="contact_us.aspx">Contact</a></li>
+                        <li><a href="booking1.aspx">Booking</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <!-- User Login / Dropdown -->
+            <div class="header-section right">
+                <div class="login-container-wrapper">
+                    <asp:HyperLink ID="lnkLogin" runat="server" NavigateUrl="~/Login.aspx" CssClass="login-container" Visible="true">
+                        <asp:Image ID="imgLoginIcon" runat="server" ImageUrl="~/Images/man.png" CssClass="login-icon" />
+                        <span class="login-text">User Login</span>
+                    </asp:HyperLink>
+
+                    <asp:Panel ID="loggedInPanel" runat="server" Visible="false" CssClass="user-dropdown">
+                        <div class="user-dropdown-toggle">
+                            <asp:Image ID="userIcon" runat="server" ImageUrl="~/Images/man.png" CssClass="login-icon" />
+                            <asp:Label ID="lblUserEmail" runat="server" CssClass="login-text"></asp:Label>
+                        </div>
+                        <div class="user-dropdown-content">
+                            <ul>
+                                <li>
+                                    <asp:LinkButton ID="btnLogout" runat="server" OnClick="Logout_Click" CssClass="logout-btn">
+                                        Logout
+                                    </asp:LinkButton>
+                                </li>
+                            </ul>
+                        </div>
+                    </asp:Panel>
+                </div>
+            </div>
+        </header>
+
+        <div class="content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+        </div>
+
+        <footer class="footer">
+            <p>&copy; 2025 Salon & Spa. All rights reserved.</p>
+        </footer>
+    </form>
+</body>
+</html>

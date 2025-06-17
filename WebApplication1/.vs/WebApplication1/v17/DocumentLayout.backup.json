@@ -1,0 +1,1160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|c:\\users\\praful\\source\\repos\\webapplication1\\webapplication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\haircut.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\haircut.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\haircut.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\haircut.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\homepage_0.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\homepage_0.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\paymentsuccess.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\paymentsuccess.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\paymentsuccess.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\paymentsuccess.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\payment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\payment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\payment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\payment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\pedicure.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pedicure.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\booking1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\booking1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\booking1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\booking1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\hairspa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\hairspa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\admin\\appointments.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admin\\appointments.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\admin\\appointments.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admin\\appointments.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\admin\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admin\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\admin\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admin\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\admin\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admin\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\gallary.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\gallary.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\haircolors.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\haircolors.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\styles1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\styles1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\hairspa.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\hairspa.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\admin\\site2.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admin\\site2.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\servicecart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\servicecart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\servicecart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\servicecart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\contact_us.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\contact_us.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\admin\\staff.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admin\\staff.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\admin\\staff.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admin\\staff.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\admin\\site2.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admin\\site2.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\facials.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\facials.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\spaservices.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\spaservices.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\salonservices.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\salonservices.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\shaving.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\shaving.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\maskspa.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\maskspa.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\maskspa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\maskspa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\treatment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\treatment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\treatment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\treatment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\touchups.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\touchups.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\touchups.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\touchups.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\threading.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\threading.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\threading.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\threading.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\pedicure.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pedicure.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\manicure.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\manicure.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\manicure.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\manicure.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\nailart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\nailart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\nailart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\nailart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\haircolors.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\haircolors.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\facials.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\facials.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\waxing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\waxing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\waxing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\waxing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\shaving.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\shaving.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\womens_haircut.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\womens_haircut.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\womens_haircut.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\womens_haircut.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\salonservices.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\salonservices.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\salonservices.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\salonservices.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\spaservices.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\spaservices.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\reviews.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\reviews.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\aboutus.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\aboutus.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\contact_us.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\contact_us.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\haircare.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\haircare.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\register.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\register.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\webapplication1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FE90C07A-209A-4943-AFEA-A106059A8D0C}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 151,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 32,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Styles1.css",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Styles1.css",
+              "RelativeDocumentMoniker": "WebApplication1\\Styles1.css",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Styles1.css",
+              "RelativeToolTip": "WebApplication1\\Styles1.css",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAANwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-15T17:02:27.093Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SalonServices.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\SalonServices.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\SalonServices.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\SalonServices.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\SalonServices.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:02:35.669Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "shaving.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\shaving.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\shaving.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\shaving.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\shaving.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T12:19:45.956Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentSuccess.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\PaymentSuccess.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\PaymentSuccess.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\PaymentSuccess.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\PaymentSuccess.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:17:08.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentSuccess.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\PaymentSuccess.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\PaymentSuccess.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\PaymentSuccess.aspx",
+              "RelativeToolTip": "WebApplication1\\PaymentSuccess.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T18:16:51.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "staff.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Admin\\staff.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin\\staff.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Admin\\staff.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Admin\\staff.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:58:37.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "staff.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Admin\\staff.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin\\staff.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Admin\\staff.aspx",
+              "RelativeToolTip": "WebApplication1\\Admin\\staff.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-07T10:56:33.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appointments.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Admin\\appointments.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin\\appointments.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Admin\\appointments.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Admin\\appointments.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:37:00.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appointments.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Admin\\appointments.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin\\appointments.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Admin\\appointments.aspx",
+              "RelativeToolTip": "WebApplication1\\Admin\\appointments.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-06T11:34:38.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Admin\\dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin\\dashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Admin\\dashboard.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Admin\\dashboard.aspx.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwGYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:50:56.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Site2.Master.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Admin\\Site2.Master.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin\\Site2.Master.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Admin\\Site2.Master.cs",
+              "RelativeToolTip": "WebApplication1\\Admin\\Site2.Master.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAEwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:47:27.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminLogin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Admin\\AdminLogin.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin\\AdminLogin.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Admin\\AdminLogin.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Admin\\AdminLogin.aspx.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwDUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:26:07.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminLogin.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Admin\\AdminLogin.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin\\AdminLogin.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Admin\\AdminLogin.aspx",
+              "RelativeToolTip": "WebApplication1\\Admin\\AdminLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-06T06:20:39.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Admin\\dashboard.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin\\dashboard.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Admin\\dashboard.aspx",
+              "RelativeToolTip": "WebApplication1\\Admin\\dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-05T21:18:34.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Site2.Master",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Admin\\Site2.Master",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin\\Site2.Master",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Admin\\Site2.Master",
+              "RelativeToolTip": "WebApplication1\\Admin\\Site2.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-05T21:17:50.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Payment.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Payment.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Payment.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Payment.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Payment.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:10:57.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Payment.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Payment.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Payment.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Payment.aspx",
+              "RelativeToolTip": "WebApplication1\\Payment.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-05T14:09:34.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "spaservices.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\spaservices.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\spaservices.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\spaservices.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\spaservices.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:45:04.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "booking1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\booking1.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\booking1.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\booking1.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\booking1.aspx.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAuwCsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:18:38.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "booking1.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\booking1.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\booking1.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\booking1.aspx",
+              "RelativeToolTip": "WebApplication1\\booking1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-28T11:16:29.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "servicecart.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\servicecart.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\servicecart.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\servicecart.aspx",
+              "RelativeToolTip": "WebApplication1\\servicecart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-22T09:26:09.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "servicecart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\servicecart.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\servicecart.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\servicecart.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\servicecart.aspx.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAIwBsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:14:55.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "spaservices.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\spaservices.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\spaservices.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\spaservices.aspx",
+              "RelativeToolTip": "WebApplication1\\spaservices.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-12T14:32:31.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "maskspa.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\maskspa.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\maskspa.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\maskspa.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\maskspa.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:15:17.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "threading.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\threading.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\threading.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\threading.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\threading.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvzEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:40:20.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "hairspa.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\hairspa.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\hairspa.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\hairspa.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\hairspa.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:31:01.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "pedicure.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\pedicure.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\pedicure.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\pedicure.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\pedicure.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:19:32.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "manicure.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\manicure.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\manicure.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\manicure.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\manicure.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:07:38.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "nailart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\nailart.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\nailart.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\nailart.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\nailart.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:40:51.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "haircolors.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\haircolors.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\haircolors.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\haircolors.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\haircolors.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:54:05.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "facials.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\facials.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\facials.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\facials.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\facials.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:34:37.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "waxing.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\waxing.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\waxing.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\waxing.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\waxing.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:58:06.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\login.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\login.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\login.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:44:55.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "contact_us.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\contact_us.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\contact_us.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\contact_us.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\contact_us.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:33:22.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "womens_haircut.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\womens_haircut.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\womens_haircut.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\womens_haircut.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\womens_haircut.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:57:45.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "haircut.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\haircut.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\haircut.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\haircut.aspx",
+              "RelativeToolTip": "WebApplication1\\haircut.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-27T08:15:33.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "haircut.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\haircut.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\haircut.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\haircut.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\haircut.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:14:32.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "hairspa.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\hairspa.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\hairspa.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\hairspa.aspx",
+              "RelativeToolTip": "WebApplication1\\hairspa.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-07T07:15:49.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "maskspa.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\maskspa.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\maskspa.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\maskspa.aspx",
+              "RelativeToolTip": "WebApplication1\\maskspa.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-07T07:12:34.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "threading.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\threading.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\threading.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\threading.aspx",
+              "RelativeToolTip": "WebApplication1\\threading.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-07T07:11:58.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "manicure.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\manicure.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\manicure.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\manicure.aspx",
+              "RelativeToolTip": "WebApplication1\\manicure.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-07T07:10:20.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "waxing.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\waxing.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\waxing.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\waxing.aspx",
+              "RelativeToolTip": "WebApplication1\\waxing.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-06T15:00:20.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "gallary.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\gallary.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\gallary.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\gallary.aspx",
+              "RelativeToolTip": "WebApplication1\\gallary.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-05T15:14:37.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "contact_us.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\contact_us.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\contact_us.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\contact_us.aspx",
+              "RelativeToolTip": "WebApplication1\\contact_us.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-05T13:18:22.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Register.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Register.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Register.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Register.aspx.designer.cs",
+              "RelativeToolTip": "WebApplication1\\Register.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:38:17.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Register.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Register.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T07:33:11.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Register.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Register.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Register.aspx",
+              "RelativeToolTip": "WebApplication1\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-29T07:32:35.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication1\\Web.config",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Web.config",
+              "RelativeToolTip": "WebApplication1\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-28T10:08:44.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\login.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\login.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\login.aspx",
+              "RelativeToolTip": "WebApplication1\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-28T09:44:07.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "touchups.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\touchups.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\touchups.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\touchups.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\touchups.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:33:09.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "touchups.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\touchups.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\touchups.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\touchups.aspx",
+              "RelativeToolTip": "WebApplication1\\touchups.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-28T09:32:06.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "pedicure.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\pedicure.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\pedicure.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\pedicure.aspx",
+              "RelativeToolTip": "WebApplication1\\pedicure.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-28T09:25:37.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "treatment.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\treatment.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\treatment.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\treatment.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\treatment.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:22:08.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "treatment.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\treatment.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\treatment.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\treatment.aspx",
+              "RelativeToolTip": "WebApplication1\\treatment.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-28T09:17:55.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "nailart.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\nailart.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\nailart.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\nailart.aspx",
+              "RelativeToolTip": "WebApplication1\\nailart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-28T09:12:44.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "womens_haircut.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\womens_haircut.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\womens_haircut.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\womens_haircut.aspx",
+              "RelativeToolTip": "WebApplication1\\womens_haircut.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-27T10:06:25.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "haircolors.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\haircolors.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\haircolors.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\haircolors.aspx",
+              "RelativeToolTip": "WebApplication1\\haircolors.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-27T08:59:29.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "haircare.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\haircare.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\haircare.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\haircare.aspx",
+              "RelativeToolTip": "WebApplication1\\haircare.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-27T08:59:04.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "facials.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\facials.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\facials.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\facials.aspx",
+              "RelativeToolTip": "WebApplication1\\facials.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-27T08:58:36.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "shaving.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\shaving.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\shaving.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\shaving.aspx",
+              "RelativeToolTip": "WebApplication1\\shaving.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-27T08:57:41.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "reviews.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\reviews.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\reviews.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\reviews.aspx",
+              "RelativeToolTip": "WebApplication1\\reviews.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-27T06:38:27.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Site1.Master.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Site1.Master.cs",
+              "RelativeToolTip": "WebApplication1\\Site1.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:01:58.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "aboutus.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\aboutus.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\aboutus.aspx.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\aboutus.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\aboutus.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:49:31.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "aboutus.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\aboutus.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\aboutus.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\aboutus.aspx",
+              "RelativeToolTip": "WebApplication1\\aboutus.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-27T05:43:37.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SalonServices.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\SalonServices.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\SalonServices.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\SalonServices.aspx.designer.cs",
+              "RelativeToolTip": "WebApplication1\\SalonServices.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:05:37.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SalonServices.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\SalonServices.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\SalonServices.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\SalonServices.aspx",
+              "RelativeToolTip": "WebApplication1\\SalonServices.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-23T13:08:34.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "WebApplication1\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:06:31.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "homepage_0.aspx",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\homepage_0.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\homepage_0.aspx",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\homepage_0.aspx",
+              "RelativeToolTip": "WebApplication1\\homepage_0.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-21T12:07:02.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Site1.Master",
+              "RelativeDocumentMoniker": "WebApplication1\\Site1.Master",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\Site1.Master",
+              "RelativeToolTip": "WebApplication1\\Site1.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-20T14:25:21.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "masterpage.Master",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\masterpage.Master",
+              "RelativeDocumentMoniker": "WebApplication1\\masterpage.Master",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\masterpage.Master",
+              "RelativeToolTip": "WebApplication1\\masterpage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-16T15:26:24.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\packages.config",
+              "RelativeDocumentMoniker": "WebApplication1\\packages.config",
+              "ToolTip": "C:\\Users\\PRAFUL\\source\\repos\\WebApplication1\\WebApplication1\\packages.config",
+              "RelativeToolTip": "WebApplication1\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-15T15:27:11.586Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

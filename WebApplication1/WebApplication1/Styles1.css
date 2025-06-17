@@ -1,0 +1,730 @@
+﻿/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-size: cover;
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1, h2, h3 {
+    font-family: 'Georgia', serif;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #000;
+}
+
+p {
+    font-family: 'Georgia', serif;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Header */
+.header {
+    background: #2b2a2a;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: 50px;
+    width: 150px;
+    float:right;
+    margin-right: 20px;
+}
+
+.site-title {
+    font-size: 1.8em;
+    color: #fff;
+    margin: 0;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+    .navbar ul li {
+        margin: 0 15px;
+    }
+
+        .navbar ul li a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 1.1em;
+            transition: color 0.3s;
+            font-family: 'Georgia', serif;
+        }
+
+            .navbar ul li a:hover {
+                color: #f0f8ff;
+            }
+/* Hero Section */
+/* General Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #121212;
+    color: #dcdcdc;
+    line-height: 1.6;
+}
+
+/* Header and Navigation */
+header {
+    position: relative;
+    z-index: 1000; /* Ensures the header is above other sections */
+    background-color: #000;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    position: relative;
+    z-index: 1001; /* Ensures dropdown is above hero */
+}
+
+.navbar li {
+    position: relative;
+}
+
+.navbar a {
+    color: #ffd700;
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding: 10px 15px;
+    display: block;
+}
+
+/* Dropdown Styling */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    min-width: 150px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}
+
+    .dropdown-content li {
+        list-style: none;
+    }
+
+    .dropdown-content a {
+        display: block;
+        padding: 8px 12px;
+        color: #333;
+        text-decoration: none;
+    }
+
+        .dropdown-content a:hover {
+            background-color: #f1f1f1;
+        }
+
+/* Show Dropdown on Hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Hero Section */
+.hero {
+    background: url('Images/homepage_bg.jpg') no-repeat center center/cover;
+    color: #fff;
+    text-align: center;
+    padding: 150px 20px;
+    position: relative;
+    height: 100vh;
+}
+
+    /* Dark Overlay for Hero Section */
+    .hero:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.4);
+        z-index: 1;
+    }
+
+/* Hero Content */
+.hero-content {
+    position: relative;
+    z-index: 2;
+}
+
+.hero h2 {
+    font-family: 'Georgia', serif; /* Change to your desired font */
+    font-size: 3rem;
+    margin-bottom: 30px;
+    color: #ffd700;
+}
+.hero p {
+    font-family: 'Georgia', serif;
+    font-size: 1.25rem;
+}
+
+/* Gallery Section Inside Hero */
+.gallery {
+    padding: 50px 20px;
+    text-align: center;
+    background-color: #fff;
+}
+
+/* Centering the Gallery Swiper */
+.swiper-container {
+    width: 100%;
+    max-width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center; /* Centers the images */
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px; /* Adds spacing between gallery items */
+}
+.swiper-button-next, .swiper-button-prev {
+    color: #ffd700 !important;
+}
+
+/* Gallery Card Styling */
+.gallery-card {
+    position: relative;
+    width: 300px;
+    height: 450px;
+    overflow: hidden;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gallery-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Overlay Text */
+.gallery-card .overlay {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .swiper-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .gallery-card {
+        width: 90%; /* Adjust width for smaller screens */
+        height: auto;
+    }
+}
+/* About Section */
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fdfefe; /* Dark background for consistency with header/footer */
+    color: #e0e0e0; /* Light gray text for readability */
+    line-height: 1.6;
+}
+
+.about-us-wrapper {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #c8c8c8; /* Slightly lighter black for content area */
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+    /* Header Styles */
+    .about-us-wrapper h1 {
+        font-family: 'Georgia', serif;
+        text-align: center;
+        font-size: 2.5rem;
+        color: #000; /* Gold for a premium feel */
+        margin-bottom: 20px;
+    }
+
+/* About Content */
+.about-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.about-section {
+    background-color: #292929; /* Dark gray for section background */
+    border: 1px solid #444; /* Subtle border to separate sections */
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+    .about-section:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+    }
+
+    .about-section h2 {
+        color: #ffde28; /* Gold for headings */
+        margin-bottom: 10px;
+    }
+
+    .about-section p {
+        font-family: 'Georgia', serif;
+        color: ##ffd700; /* Lighter gray for paragraph text */
+        margin: 0;
+    }
+
+/* Call to Action */
+.cta-section {
+    text-align: center;
+    margin-top: 30px;
+    background-color: #292929;
+    border: 1px solid #444;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+    .cta-section h2 {
+        color: #ffde28;
+        margin-bottom: 10px;
+    }
+
+.cta-button {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #ffde28;
+    color: #121212; /* Black text for contrast */
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+    .cta-button:hover {
+        background-color: #ffde28; /* Darker gold on hover */
+        color: #fff; /* White text for better hover contrast */
+    }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .about-content {
+        grid-template-columns: 1fr;
+    }
+}
+/* Services Section */
+.services {
+    padding: 50px 20px;
+    background: #fff;
+}
+
+.service-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.service-item {
+    text-align: center;
+    width: 30%;
+    margin-bottom: 20px;
+    background: #292929; /* Light pastel blue */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+    .service-item:hover {
+        transform: scale(1.05); /* Slight zoom on hover */
+    }
+
+/* Gallery Section */
+.gallery {
+    padding: 50px 20px;
+    background: #f4f9fc; /* Soft light blue */
+}
+
+.gallery-images {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+    .gallery-images img {
+        width: 30%;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+/* Testimonials Section */
+.testimonials {
+    padding: 50px 20px;
+    background: #eaf4f4; /* Light pastel green */
+}
+
+.testimonial-item {
+    text-align: center;
+    margin-bottom: 20px;
+    font-style: italic;
+    color: #444;
+}
+
+    .testimonial-item span {
+        display: block;
+        margin-top: 10px;
+        font-weight: bold;
+        color: #ffd700;
+    }
+
+/* Contact Section */
+.contact {
+    padding: 50px 20px;
+    background: #fff;
+}
+
+    .contact form {
+        max-width: 600px;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+        .contact form input,
+        .contact form textarea {
+            width: 100%;
+            margin-bottom: 10px;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 1em;
+        }
+
+        .contact form button {
+            padding: 10px 20px;
+            background: #4CAF50;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1.1em;
+            transition: background 0.3s;
+        }
+
+            .contact form button:hover {
+                background: #388E3C;
+            }
+
+/* Footer */
+.footer {
+    text-align: center;
+    padding: 20px;
+    background: #000000;
+    color: #fff;
+}
+
+/* Logo and Header Styling */
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.logo {
+    height: 50px; /* Adjust the logo size */
+    width: 150px;
+    margin-right: 20px; /* Add some space between the logo and the text */
+}
+
+.site-title {
+    font-size: 1.8em;
+    color: #fff;
+    margin: 0;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: flex-end; /* Push the navigation to the right */
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+    .navbar ul li {
+        margin: 0 15px;
+    }
+
+        .navbar ul li a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 1.1em;
+            transition: color 0.3s;
+        }
+
+            .navbar ul li a:hover {
+                color: #f0f8ff; /* Soft hover color */
+            }
+
+/* Header container styling for alignment */
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a {
+    color: inherit; /* Removes blue color and inherits the parent color */
+    text-decoration: none; /* Removes the underline */
+}
+/* General Styles for Dropdown */
+.navbar {
+    background: #2b2a2a; /* Dark background for navigation */
+    padding: 10px 0;
+}
+
+    .navbar ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+    }
+
+        .navbar ul li {
+            position: relative;
+            margin: 0 15px;
+        }
+
+            .navbar ul li a {
+                color: #fff;
+                text-decoration: none;
+                font-size: 1.1em;
+                padding: 10px 15px;
+                display: block;
+                transition: background 0.3s, color 0.3s;
+            }
+
+                .navbar ul li a:hover {
+                    background: #444;
+                    border-radius: 4px;
+                }
+
+    /* Dropdown Styles */
+    .navbar .dropdown {
+        position: relative;
+    }
+
+    .navbar .dropdown-content {
+        display: none;
+        position: absolute;
+        top: 100%; /* Align below the parent */
+        left: 0;
+        background-color: #828282; /* Dropdown background */
+        min-width: 160px;
+        border-radius: 4px;
+        box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+    }
+
+        .navbar .dropdown-content li {
+            margin: 0;
+        }
+
+            .navbar .dropdown-content li a {
+                color: white;
+                padding: 12px 16px;
+                display: block;
+                text-align: left;
+            }
+
+                .navbar .dropdown-content li a:hover {
+                    background-color: #999999; /* Hover effect */
+                }
+
+    /* Display dropdown on hover */
+    .navbar .dropdown:hover .dropdown-content {
+        display: block;
+    }
+/*for only images of spa and saloon*/
+.image-gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Three columns */
+    gap: 50px; /* Space between images */
+    justify-items: center; /* Center images horizontally */
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+    /* Image styling */
+    .image-gallery img {
+        width: 100%; /* Ensure images are responsive */
+        max-width: 500px; /* Maximum width */
+        border-radius: 10px; /* Rounded corners */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Soft shadow effect */
+        transition: transform 0.3s ease, box-shadow 0.3s ease; /* Animation effect */
+    }
+
+        /* Hover effect on images */
+        .image-gallery img:hover {
+            transform: scale(1.05); /* Slightly enlarge the image on hover */
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Stronger shadow on hover */
+        }
+
+/*Login page*/
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: scale(0.9);
+    }
+
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+@keyframes shake {
+    0%, 100% {
+        transform: translateX(0);
+    }
+
+    25% {
+        transform: translateX(-5px);
+    }
+
+    50% {
+        transform: translateX(5px);
+    }
+
+    75% {
+        transform: translateX(-5px);
+    }
+}
+
+@keyframes slideInDown {
+    from {
+        transform: translateY(-50px);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+body {
+    
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
+
+.login-container {
+    width: 200px;
+    margin: 100px auto;
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.profile-image img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+input, .btn {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: none;
+}
+
+.btn {
+    background-color: #000;
+    color: white;
+    font-size: 16px;
+    transition: all 0.3s ease-in-out;
+}
+
+    .btn:hover {
+        background-color: #444;
+        transform: scale(1.05);
+    }
+
+a {
+    color: #ffd700;
+    text-decoration: none;
+}
+
+.animated {
+    animation-duration: 0.5s;
+    animation-fill-mode: both;
+}
+
+.fadeIn {
+    animation-name: fadeIn;
+}
+
+.slideInDown {
+    animation-name: slideInDown;
+}
+
+.shake {
+    animation-name: shake;
+    animation-duration: 0.5s;
+}
